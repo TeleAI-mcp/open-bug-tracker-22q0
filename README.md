@@ -1,2 +1,3 @@
-# open-bug-tracker-22q0
-A bug and issue tracking system for modern development workflows
+# Open Bug Tracker 22Q0
+
+A bug and issue tracking system for modern development workflows.
